@@ -1,6 +1,6 @@
 {
-  "name": "MechBees Repair",
-  "short_name": "MechBees Repair",
+  "name": "MechBees Bill",
+  "short_name": "MechBees Bill",
   "description": "MechBees repair billing and invoice system",
   "start_url": "./",
   "display": "standalone",
